@@ -79,7 +79,6 @@ O sistema faz o consumo da API do [OpenWeather](https://openweathermap.org/) par
 - [API Clima](https://github.com/PToledoCESJF/api-clima-ts)
 ---
 ### Autor
-***
 Paulo Donizete Alves de Toledo
 ##### CONTATO:
 - (32)99838-9166
